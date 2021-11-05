@@ -1,0 +1,40 @@
+﻿# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[033] # Route 1
+Land,21
+    20,BULBASAUR,5
+    20,BULBASAUR,5
+    20,BULBASAUR,5
+    20,BULBASAUR,5
+    20,BULBASAUR,5
+LandDay,21
+    20,BULBASAUR,5
+    20,BULBASAUR,5
+    20,BULBASAUR,5
+    20,BULBASAUR,5
+    20,BULBASAUR,5
+LandAfternoon,21
+    20,BULBASAUR,5
+    20,BULBASAUR,5
+    20,BULBASAUR,5
+    20,BULBASAUR,5
+    20,BULBASAUR,5
+LandEvening,21
+    20,BULBASAUR,5
+    20,BULBASAUR,5
+    20,BULBASAUR,5
+    20,BULBASAUR,5
+    20,BULBASAUR,5
+LandMorning,21
+    20,BULBASAUR,5
+    20,BULBASAUR,5
+    20,BULBASAUR,5
+    20,BULBASAUR,5
+    20,BULBASAUR,5
+LandNight,21
+    20,BULBASAUR,5
+    20,BULBASAUR,5
+    20,BULBASAUR,5
+    20,BULBASAUR,5
+    20,BULBASAUR,5
+    20,BULBASAUR,5
