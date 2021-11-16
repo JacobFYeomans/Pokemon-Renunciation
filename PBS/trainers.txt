@@ -131,7 +131,9 @@ Pokemon = CHARMANDER,10
 #-------------------------------
 [CHAMPION,Rex]
 LoseText = "..."
-Pokemon = BISHARP,11
+Pokemon = PAWNIARD,5
+    Gender = male
+    Shiny = yes
 #-------------------------------
 [CRUSHGIRL,Eleina]
 LoseText = "..."

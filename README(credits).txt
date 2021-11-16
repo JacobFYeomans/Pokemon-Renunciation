@@ -9,4 +9,8 @@ Valyrym
 Twitter & Reborn Forums: @Valyrym
 Email: breakinghoenn@gmail.com
 
----------Sprites---------
+---------Assets---------
+
+All credit given to
+Amythyst Liddel & the Reborn team
+Janichroma & the Rejuvenation team
