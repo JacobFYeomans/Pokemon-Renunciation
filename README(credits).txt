@@ -14,3 +14,4 @@ Email: breakinghoenn@gmail.com
 All credit given to
 Amythyst Liddel & the Reborn team
 Janichroma & the Rejuvenation team
+Nintendo, Game Freak, and tPCI
